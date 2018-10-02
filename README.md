@@ -1,4 +1,4 @@
-# Coin change algorith written in PHP
+# Coin change algorithm written in PHP
 
 // Output: 3
 
