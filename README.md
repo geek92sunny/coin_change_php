@@ -1,6 +1,8 @@
-# coin_change_php
+# Coin change algorith written in PHP
 
-// Output:
+// Output: 3
+
+// That is:
 
 // 1+1+1+1
 
